@@ -1,6 +1,6 @@
 # Hi, I'm Sahil Shadmani 👋
 
-### 💻 Aspiring Software Engineer
+### 💻 BCA Student
 
 I enjoy building web applications, solving problems, and continuously learning new technologies.
 
@@ -22,9 +22,9 @@ Node.js · Express.js · MongoDB
 
 Working on projects to strengthen my development skills and gain hands-on experience with full-stack development.
 
-### 🔗 Find Me Online
+### 🔗 Get in Touch
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL)
+📧 [contact.sahilshadmani@gmail.com](mailto:contact.sahilshadmani@gmail.com)
 
 ---
 
