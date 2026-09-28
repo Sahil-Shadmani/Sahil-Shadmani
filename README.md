@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sahil Shadmani 👋
 
-<!--
-**Sahil-Shadmani/Sahil-Shadmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I enjoy building web applications, solving problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+
+**🎨 Frontend**  
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+**☕ Programming & Data**  
+Java · SQL
+
+**🔧 Tools**  
+Git · GitHub · VS Code
+
+**🔍 Currently Exploring**  
+Node.js · Express.js · MongoDB
+
+### 🚀 Currently Building
+
+Working on projects to strengthen my development skills and gain hands-on experience with full-stack development.
+
+### 🔗 Find Me Online
+
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+🌱 Learning by building.
