@@ -9,7 +9,7 @@ I enjoy building web applications, solving problems, and continuously learning n
 **🎨 Frontend**  
 HTML · CSS · JavaScript · React · Tailwind CSS
 
-**☕ Programming & Data**  
+**☕ Programming & Databases**  
 Java · SQL
 
 **🔧 Tools**  
@@ -24,7 +24,7 @@ Working on projects to strengthen my development skills and gain hands-on experi
 
 ### 🔗 Get in Touch
 
-📧 [contact.sahilshadmani@gmail.com](mailto:contact.sahilshadmani@gmail.com)
+📧 [Email](mailto:contact.sahilshadmani@gmail.com)
 
 ---
 
